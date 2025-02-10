@@ -1,4 +1,4 @@
-At PATTERNU, the project takes the security of its code, data, and the broader
+At METEOSPAX, the project takes the security of its code, data, and the broader
 community seriously, this security policy (thereafter as “policy”) outlines the
 measures and expectations we have in place to safeguard our repository and its
 users from potential security threats.
@@ -10,7 +10,7 @@ of everyone involved.
 
 Policy is intended to provide clear guidelines and procedures for addressing security-related
 issues, reporting vulnerabilities, and maintaining a safe and productive environment
-for all contributors and users, PATTERNU wants to encourage you to read and adhere
+for all contributors and users, METEOSPAX wants to encourage you to read and adhere
 to these guidelines as you engage with this repository.
 
 By working together to prioritize security, we can maintain the integrity of our

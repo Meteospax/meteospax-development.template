@@ -1,9 +1,9 @@
 
-### Repository Settings for Patternugit
+### Repository Settings for `meteospax-development.template`
 
 #### **General Information:**
 
-- **Repository Name**: Patternugit
+- **Repository Name**: `meteospax-development.template`
 - **Visibility**: Public
 - **Default Branch**: `main`
 
@@ -19,13 +19,13 @@
 
 ### **Features**
 
-- **Wikis**: Enabled
+- **Wikis**: Disabled
   - **Restrict editing to collaborators:** Enabled
-- **Issues**: Enabled
+- **Issues**: Disabled
 - **Sponsorships**: Disabled
 - **Preserve this repository**: Enabled
-- **Discussions**: Enabled
-- **Projects**: Enabled
+- **Discussions**: Disabled
+- **Projects**: Disabled
 
 ---
 

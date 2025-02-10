@@ -54,7 +54,6 @@ jobs:
           VALIDATE_MARKDOWN_PRETTIER: false
           # Please, read #195:
           # https://github.com/Falcion/Patternugit/issues/195
-          VALIDATE_NATURAL_LANGUAGE: false
           VALIDATE_JAVASCRIPT_ES: false
           VALIDATE_TYPESCRIPT_ES: false
           # As the issue above, STANDARD linter bases it's config and function
@@ -68,3 +67,6 @@ jobs:
           #
           # (If you want, you can disable/enable it on your own:)
           VALIDATE_PYTHON_PYINK: false
+          # Special settings for METEOSPAX environment
+          VALIDATE_NATURAL_LANGUAGE: false
+          VALIDATE_MARKDOWN: false
