@@ -154248,6 +154248,13 @@ var LOCALES_AR = {
     2: "If both modes are enabled, it can cause unstable behaviour.",
     3: "If file is treated with both code editor module and default extensions-as-markdown system it can cause unstable behaviour with rendering system, use both modes if your file is an edge-case.",
     4: 'If code editor module uses default extensions array (with setting "use default extensions"), extension would be inserted in default extensions array, otherwise, it would be inserted in code editor extensions array.'
+  },
+  "SAFE_MODE": {
+    0: "Safe mode:",
+    1: "If enabled, the plugin will check if this extension will be damaged when opened via Markdown view.",
+    2: "DISABLE AT YOUR OWN RISK: you will be able to work with all extensions in Markdown representation, but with the risk of damaging files.",
+    3: "Safe-mod is {1}!",
+    4: "Disables defensive tactics for non-text extensions behaviour."
   }
 };
 
@@ -154452,6 +154459,13 @@ var LOCALES_CZ = {
     2: "If both modes are enabled, it can cause unstable behaviour.",
     3: "If file is treated with both code editor module and default extensions-as-markdown system it can cause unstable behaviour with rendering system, use both modes if your file is an edge-case.",
     4: 'If code editor module uses default extensions array (with setting "use default extensions"), extension would be inserted in default extensions array, otherwise, it would be inserted in code editor extensions array.'
+  },
+  "SAFE_MODE": {
+    0: "Safe mode:",
+    1: "If enabled, the plugin will check if this extension will be damaged when opened via Markdown view.",
+    2: "DISABLE AT YOUR OWN RISK: you will be able to work with all extensions in Markdown representation, but with the risk of damaging files.",
+    3: "Safe-mod is {1}!",
+    4: "Disables defensive tactics for non-text extensions behaviour."
   }
 };
 
@@ -154656,6 +154670,13 @@ var LOCALES_DA = {
     2: "If both modes are enabled, it can cause unstable behaviour.",
     3: "If file is treated with both code editor module and default extensions-as-markdown system it can cause unstable behaviour with rendering system, use both modes if your file is an edge-case.",
     4: 'If code editor module uses default extensions array (with setting "use default extensions"), extension would be inserted in default extensions array, otherwise, it would be inserted in code editor extensions array.'
+  },
+  "SAFE_MODE": {
+    0: "Safe mode:",
+    1: "If enabled, the plugin will check if this extension will be damaged when opened via Markdown view.",
+    2: "DISABLE AT YOUR OWN RISK: you will be able to work with all extensions in Markdown representation, but with the risk of damaging files.",
+    3: "Safe-mod is {1}!",
+    4: "Disables defensive tactics for non-text extensions behaviour."
   }
 };
 
@@ -154860,6 +154881,13 @@ var LOCALES_DE = {
     2: "If both modes are enabled, it can cause unstable behaviour.",
     3: "If file is treated with both code editor module and default extensions-as-markdown system it can cause unstable behaviour with rendering system, use both modes if your file is an edge-case.",
     4: 'If code editor module uses default extensions array (with setting "use default extensions"), extension would be inserted in default extensions array, otherwise, it would be inserted in code editor extensions array.'
+  },
+  "SAFE_MODE": {
+    0: "Safe mode:",
+    1: "If enabled, the plugin will check if this extension will be damaged when opened via Markdown view.",
+    2: "DISABLE AT YOUR OWN RISK: you will be able to work with all extensions in Markdown representation, but with the risk of damaging files.",
+    3: "Safe-mod is {1}!",
+    4: "Disables defensive tactics for non-text extensions behaviour."
   }
 };
 
@@ -155064,6 +155092,13 @@ var LOCALES_EN = {
     2: "If both modes are enabled, it can cause unstable behaviour.",
     3: "If file is treated with both code editor module and default extensions-as-markdown system it can cause unstable behaviour with rendering system, use both modes if your file is an edge-case.",
     4: 'If code editor module uses default extensions array (with setting "use default extensions"), extension would be inserted in default extensions array, otherwise, it would be inserted in code editor extensions array.'
+  },
+  "SAFE_MODE": {
+    0: "Safe mode:",
+    1: "If enabled, the plugin will check if this extension will be damaged when opened via Markdown view.",
+    2: "DISABLE AT YOUR OWN RISK: you will be able to work with all extensions in Markdown representation, but with the risk of damaging files.",
+    3: "Safe-mod is {1}!",
+    4: "Disables defensive tactics for non-text extensions behaviour."
   }
 };
 
@@ -155268,6 +155303,13 @@ var LOCALES_ES = {
     2: "If both modes are enabled, it can cause unstable behaviour.",
     3: "If file is treated with both code editor module and default extensions-as-markdown system it can cause unstable behaviour with rendering system, use both modes if your file is an edge-case.",
     4: 'If code editor module uses default extensions array (with setting "use default extensions"), extension would be inserted in default extensions array, otherwise, it would be inserted in code editor extensions array.'
+  },
+  "SAFE_MODE": {
+    0: "Safe mode:",
+    1: "If enabled, the plugin will check if this extension will be damaged when opened via Markdown view.",
+    2: "DISABLE AT YOUR OWN RISK: you will be able to work with all extensions in Markdown representation, but with the risk of damaging files.",
+    3: "Safe-mod is {1}!",
+    4: "Disables defensive tactics for non-text extensions behaviour."
   }
 };
 
@@ -155472,6 +155514,13 @@ var LOCALES_FR = {
     2: "If both modes are enabled, it can cause unstable behaviour.",
     3: "If file is treated with both code editor module and default extensions-as-markdown system it can cause unstable behaviour with rendering system, use both modes if your file is an edge-case.",
     4: 'If code editor module uses default extensions array (with setting "use default extensions"), extension would be inserted in default extensions array, otherwise, it would be inserted in code editor extensions array.'
+  },
+  "SAFE_MODE": {
+    0: "Safe mode:",
+    1: "If enabled, the plugin will check if this extension will be damaged when opened via Markdown view.",
+    2: "DISABLE AT YOUR OWN RISK: you will be able to work with all extensions in Markdown representation, but with the risk of damaging files.",
+    3: "Safe-mod is {1}!",
+    4: "Disables defensive tactics for non-text extensions behaviour."
   }
 };
 
@@ -155676,6 +155725,13 @@ var LOCALES_HI = {
     2: "If both modes are enabled, it can cause unstable behaviour.",
     3: "If file is treated with both code editor module and default extensions-as-markdown system it can cause unstable behaviour with rendering system, use both modes if your file is an edge-case.",
     4: 'If code editor module uses default extensions array (with setting "use default extensions"), extension would be inserted in default extensions array, otherwise, it would be inserted in code editor extensions array.'
+  },
+  "SAFE_MODE": {
+    0: "Safe mode:",
+    1: "If enabled, the plugin will check if this extension will be damaged when opened via Markdown view.",
+    2: "DISABLE AT YOUR OWN RISK: you will be able to work with all extensions in Markdown representation, but with the risk of damaging files.",
+    3: "Safe-mod is {1}!",
+    4: "Disables defensive tactics for non-text extensions behaviour."
   }
 };
 
@@ -155880,6 +155936,13 @@ var LOCALES_ID = {
     2: "If both modes are enabled, it can cause unstable behaviour.",
     3: "If file is treated with both code editor module and default extensions-as-markdown system it can cause unstable behaviour with rendering system, use both modes if your file is an edge-case.",
     4: 'If code editor module uses default extensions array (with setting "use default extensions"), extension would be inserted in default extensions array, otherwise, it would be inserted in code editor extensions array.'
+  },
+  "SAFE_MODE": {
+    0: "Safe mode:",
+    1: "If enabled, the plugin will check if this extension will be damaged when opened via Markdown view.",
+    2: "DISABLE AT YOUR OWN RISK: you will be able to work with all extensions in Markdown representation, but with the risk of damaging files.",
+    3: "Safe-mod is {1}!",
+    4: "Disables defensive tactics for non-text extensions behaviour."
   }
 };
 
@@ -156084,6 +156147,13 @@ var LOCALES_IT = {
     2: "If both modes are enabled, it can cause unstable behaviour.",
     3: "If file is treated with both code editor module and default extensions-as-markdown system it can cause unstable behaviour with rendering system, use both modes if your file is an edge-case.",
     4: 'If code editor module uses default extensions array (with setting "use default extensions"), extension would be inserted in default extensions array, otherwise, it would be inserted in code editor extensions array.'
+  },
+  "SAFE_MODE": {
+    0: "Safe mode:",
+    1: "If enabled, the plugin will check if this extension will be damaged when opened via Markdown view.",
+    2: "DISABLE AT YOUR OWN RISK: you will be able to work with all extensions in Markdown representation, but with the risk of damaging files.",
+    3: "Safe-mod is {1}!",
+    4: "Disables defensive tactics for non-text extensions behaviour."
   }
 };
 
@@ -156288,6 +156358,13 @@ var LOCALES_JA = {
     2: "If both modes are enabled, it can cause unstable behaviour.",
     3: "If file is treated with both code editor module and default extensions-as-markdown system it can cause unstable behaviour with rendering system, use both modes if your file is an edge-case.",
     4: 'If code editor module uses default extensions array (with setting "use default extensions"), extension would be inserted in default extensions array, otherwise, it would be inserted in code editor extensions array.'
+  },
+  "SAFE_MODE": {
+    0: "Safe mode:",
+    1: "If enabled, the plugin will check if this extension will be damaged when opened via Markdown view.",
+    2: "DISABLE AT YOUR OWN RISK: you will be able to work with all extensions in Markdown representation, but with the risk of damaging files.",
+    3: "Safe-mod is {1}!",
+    4: "Disables defensive tactics for non-text extensions behaviour."
   }
 };
 
@@ -156492,6 +156569,13 @@ var LOCALES_KO = {
     2: "If both modes are enabled, it can cause unstable behaviour.",
     3: "If file is treated with both code editor module and default extensions-as-markdown system it can cause unstable behaviour with rendering system, use both modes if your file is an edge-case.",
     4: 'If code editor module uses default extensions array (with setting "use default extensions"), extension would be inserted in default extensions array, otherwise, it would be inserted in code editor extensions array.'
+  },
+  "SAFE_MODE": {
+    0: "Safe mode:",
+    1: "If enabled, the plugin will check if this extension will be damaged when opened via Markdown view.",
+    2: "DISABLE AT YOUR OWN RISK: you will be able to work with all extensions in Markdown representation, but with the risk of damaging files.",
+    3: "Safe-mod is {1}!",
+    4: "Disables defensive tactics for non-text extensions behaviour."
   }
 };
 
@@ -156696,6 +156780,13 @@ var LOCALES_NL = {
     2: "If both modes are enabled, it can cause unstable behaviour.",
     3: "If file is treated with both code editor module and default extensions-as-markdown system it can cause unstable behaviour with rendering system, use both modes if your file is an edge-case.",
     4: 'If code editor module uses default extensions array (with setting "use default extensions"), extension would be inserted in default extensions array, otherwise, it would be inserted in code editor extensions array.'
+  },
+  "SAFE_MODE": {
+    0: "Safe mode:",
+    1: "If enabled, the plugin will check if this extension will be damaged when opened via Markdown view.",
+    2: "DISABLE AT YOUR OWN RISK: you will be able to work with all extensions in Markdown representation, but with the risk of damaging files.",
+    3: "Safe-mod is {1}!",
+    4: "Disables defensive tactics for non-text extensions behaviour."
   }
 };
 
@@ -156900,6 +156991,13 @@ var LOCALES_NO = {
     2: "If both modes are enabled, it can cause unstable behaviour.",
     3: "If file is treated with both code editor module and default extensions-as-markdown system it can cause unstable behaviour with rendering system, use both modes if your file is an edge-case.",
     4: 'If code editor module uses default extensions array (with setting "use default extensions"), extension would be inserted in default extensions array, otherwise, it would be inserted in code editor extensions array.'
+  },
+  "SAFE_MODE": {
+    0: "Safe mode:",
+    1: "If enabled, the plugin will check if this extension will be damaged when opened via Markdown view.",
+    2: "DISABLE AT YOUR OWN RISK: you will be able to work with all extensions in Markdown representation, but with the risk of damaging files.",
+    3: "Safe-mod is {1}!",
+    4: "Disables defensive tactics for non-text extensions behaviour."
   }
 };
 
@@ -157104,6 +157202,13 @@ var LOCALES_PL = {
     2: "If both modes are enabled, it can cause unstable behaviour.",
     3: "If file is treated with both code editor module and default extensions-as-markdown system it can cause unstable behaviour with rendering system, use both modes if your file is an edge-case.",
     4: 'If code editor module uses default extensions array (with setting "use default extensions"), extension would be inserted in default extensions array, otherwise, it would be inserted in code editor extensions array.'
+  },
+  "SAFE_MODE": {
+    0: "Safe mode:",
+    1: "If enabled, the plugin will check if this extension will be damaged when opened via Markdown view.",
+    2: "DISABLE AT YOUR OWN RISK: you will be able to work with all extensions in Markdown representation, but with the risk of damaging files.",
+    3: "Safe-mod is {1}!",
+    4: "Disables defensive tactics for non-text extensions behaviour."
   }
 };
 
@@ -157308,6 +157413,13 @@ var LOCALES_PT = {
     2: "If both modes are enabled, it can cause unstable behaviour.",
     3: "If file is treated with both code editor module and default extensions-as-markdown system it can cause unstable behaviour with rendering system, use both modes if your file is an edge-case.",
     4: 'If code editor module uses default extensions array (with setting "use default extensions"), extension would be inserted in default extensions array, otherwise, it would be inserted in code editor extensions array.'
+  },
+  "SAFE_MODE": {
+    0: "Safe mode:",
+    1: "If enabled, the plugin will check if this extension will be damaged when opened via Markdown view.",
+    2: "DISABLE AT YOUR OWN RISK: you will be able to work with all extensions in Markdown representation, but with the risk of damaging files.",
+    3: "Safe-mod is {1}!",
+    4: "Disables defensive tactics for non-text extensions behaviour."
   }
 };
 
@@ -157512,6 +157624,13 @@ var LOCALES_PT_BR = {
     2: "If both modes are enabled, it can cause unstable behaviour.",
     3: "If file is treated with both code editor module and default extensions-as-markdown system it can cause unstable behaviour with rendering system, use both modes if your file is an edge-case.",
     4: 'If code editor module uses default extensions array (with setting "use default extensions"), extension would be inserted in default extensions array, otherwise, it would be inserted in code editor extensions array.'
+  },
+  "SAFE_MODE": {
+    0: "Safe mode:",
+    1: "If enabled, the plugin will check if this extension will be damaged when opened via Markdown view.",
+    2: "DISABLE AT YOUR OWN RISK: you will be able to work with all extensions in Markdown representation, but with the risk of damaging files.",
+    3: "Safe-mod is {1}!",
+    4: "Disables defensive tactics for non-text extensions behaviour."
   }
 };
 
@@ -157716,6 +157835,13 @@ var LOCALES_RO = {
     2: "If both modes are enabled, it can cause unstable behaviour.",
     3: "If file is treated with both code editor module and default extensions-as-markdown system it can cause unstable behaviour with rendering system, use both modes if your file is an edge-case.",
     4: 'If code editor module uses default extensions array (with setting "use default extensions"), extension would be inserted in default extensions array, otherwise, it would be inserted in code editor extensions array.'
+  },
+  "SAFE_MODE": {
+    0: "Safe mode:",
+    1: "If enabled, the plugin will check if this extension will be damaged when opened via Markdown view.",
+    2: "DISABLE AT YOUR OWN RISK: you will be able to work with all extensions in Markdown representation, but with the risk of damaging files.",
+    3: "Safe-mod is {1}!",
+    4: "Disables defensive tactics for non-text extensions behaviour."
   }
 };
 
@@ -157920,6 +158046,13 @@ var LOCALES_RU = {
     2: "\u0415\u0441\u043B\u0438 \u043E\u0431\u0430 \u0440\u0435\u0436\u0438\u043C\u0430 \u0432\u043A\u043B\u044E\u0447\u0435\u043D\u044B, \u044D\u0442\u043E \u043C\u043E\u0436\u0435\u0442 \u043F\u0440\u0438\u0432\u0435\u0441\u0442\u0438 \u043A \u043D\u0435\u0441\u0442\u0430\u0431\u0438\u043B\u044C\u043D\u043E\u043C\u0443 \u043F\u043E\u0432\u0435\u0434\u0435\u043D\u0438\u044E.",
     3: "\u0415\u0441\u043B\u0438 \u0444\u0430\u0439\u043B \u043E\u0431\u0440\u0430\u0431\u0430\u0442\u044B\u0432\u0430\u0435\u0442\u0441\u044F \u043A\u0430\u043A \u043C\u043E\u0434\u0443\u043B\u0435\u043C \u0440\u0435\u0434\u0430\u043A\u0442\u043E\u0440\u0430 \u043A\u043E\u0434\u0430, \u0442\u0430\u043A \u0438 \u0441\u0442\u0430\u043D\u0434\u0430\u0440\u0442\u043D\u044B\u043C Markdown, \u044D\u0442\u043E \u043C\u043E\u0436\u0435\u0442 \u0432\u044B\u0437\u0432\u0430\u0442\u044C \u043D\u0435\u0441\u0442\u0430\u0431\u0438\u043B\u044C\u043D\u043E\u0435 \u043F\u043E\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0441\u0438\u0441\u0442\u0435\u043C\u044B \u0440\u0435\u043D\u0434\u0435\u0440\u0438\u043D\u0433\u0430. \u0418\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0439\u0442\u0435 \u043E\u0431\u0430 \u0440\u0435\u0436\u0438\u043C\u0430 \u0442\u043E\u043B\u044C\u043A\u043E \u0434\u043B\u044F \u043A\u0440\u0430\u0439\u043D\u0438\u0445 \u0441\u043B\u0443\u0447\u0430\u0435\u0432.",
     4: '\u0415\u0441\u043B\u0438 \u043C\u043E\u0434\u0443\u043B\u044C \u0440\u0435\u0434\u0430\u043A\u0442\u043E\u0440\u0430 \u043A\u043E\u0434\u0430 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0435\u0442 \u0440\u0435\u0435\u0441\u0442\u0440 \u0441\u0442\u0430\u043D\u0434\u0430\u0440\u0442\u043D\u044B\u0445 \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043D\u0438\u0439 (\u0441 \u043D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u043E\u0439 "\u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u044C \u0441\u0442\u0430\u043D\u0434\u0430\u0440\u0442\u043D\u044B\u0435 \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043D\u0438\u044F"), \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043D\u0438\u0435 \u0431\u0443\u0434\u0435\u0442 \u0434\u043E\u0431\u0430\u0432\u043B\u0435\u043D\u043E \u0432 \u0440\u0435\u0435\u0441\u0442\u0440 \u0441\u0442\u0430\u043D\u0434\u0430\u0440\u0442\u043D\u044B\u0445 \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043D\u0438\u0439. \u0412 \u043F\u0440\u043E\u0442\u0438\u0432\u043D\u043E\u043C \u0441\u043B\u0443\u0447\u0430\u0435 \u043E\u043D\u043E \u0431\u0443\u0434\u0435\u0442 \u0434\u043E\u0431\u0430\u0432\u043B\u0435\u043D\u043E \u0432 \u0440\u0435\u0435\u0441\u0442\u0440 \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043D\u0438\u0439 \u0440\u0435\u0434\u0430\u043A\u0442\u043E\u0440\u0430 \u043A\u043E\u0434\u0430.'
+  },
+  "SAFE_MODE": {
+    0: "Safe mode:",
+    1: "If enabled, the plugin will check if this extension will be damaged when opened via Markdown view.",
+    2: "DISABLE AT YOUR OWN RISK: you will be able to work with all extensions in Markdown representation, but with the risk of damaging files.",
+    3: "Safe-mod is {1}!",
+    4: "Disables defensive tactics for non-text extensions behaviour."
   }
 };
 
@@ -158124,6 +158257,13 @@ var LOCALES_SQ = {
     2: "If both modes are enabled, it can cause unstable behaviour.",
     3: "If file is treated with both code editor module and default extensions-as-markdown system it can cause unstable behaviour with rendering system, use both modes if your file is an edge-case.",
     4: 'If code editor module uses default extensions array (with setting "use default extensions"), extension would be inserted in default extensions array, otherwise, it would be inserted in code editor extensions array.'
+  },
+  "SAFE_MODE": {
+    0: "Safe mode:",
+    1: "If enabled, the plugin will check if this extension will be damaged when opened via Markdown view.",
+    2: "DISABLE AT YOUR OWN RISK: you will be able to work with all extensions in Markdown representation, but with the risk of damaging files.",
+    3: "Safe-mod is {1}!",
+    4: "Disables defensive tactics for non-text extensions behaviour."
   }
 };
 
@@ -158328,6 +158468,13 @@ var LOCALES_TR = {
     2: "If both modes are enabled, it can cause unstable behaviour.",
     3: "If file is treated with both code editor module and default extensions-as-markdown system it can cause unstable behaviour with rendering system, use both modes if your file is an edge-case.",
     4: 'If code editor module uses default extensions array (with setting "use default extensions"), extension would be inserted in default extensions array, otherwise, it would be inserted in code editor extensions array.'
+  },
+  "SAFE_MODE": {
+    0: "Safe mode:",
+    1: "If enabled, the plugin will check if this extension will be damaged when opened via Markdown view.",
+    2: "DISABLE AT YOUR OWN RISK: you will be able to work with all extensions in Markdown representation, but with the risk of damaging files.",
+    3: "Safe-mod is {1}!",
+    4: "Disables defensive tactics for non-text extensions behaviour."
   }
 };
 
@@ -158532,6 +158679,13 @@ var LOCALES_UK = {
     2: "If both modes are enabled, it can cause unstable behaviour.",
     3: "If file is treated with both code editor module and default extensions-as-markdown system it can cause unstable behaviour with rendering system, use both modes if your file is an edge-case.",
     4: 'If code editor module uses default extensions array (with setting "use default extensions"), extension would be inserted in default extensions array, otherwise, it would be inserted in code editor extensions array.'
+  },
+  "SAFE_MODE": {
+    0: "Safe mode:",
+    1: "If enabled, the plugin will check if this extension will be damaged when opened via Markdown view.",
+    2: "DISABLE AT YOUR OWN RISK: you will be able to work with all extensions in Markdown representation, but with the risk of damaging files.",
+    3: "Safe-mod is {1}!",
+    4: "Disables defensive tactics for non-text extensions behaviour."
   }
 };
 
@@ -158736,6 +158890,13 @@ var LOCALES_ZH = {
     2: "If both modes are enabled, it can cause unstable behaviour.",
     3: "If file is treated with both code editor module and default extensions-as-markdown system it can cause unstable behaviour with rendering system, use both modes if your file is an edge-case.",
     4: 'If code editor module uses default extensions array (with setting "use default extensions"), extension would be inserted in default extensions array, otherwise, it would be inserted in code editor extensions array.'
+  },
+  "SAFE_MODE": {
+    0: "Safe mode:",
+    1: "If enabled, the plugin will check if this extension will be damaged when opened via Markdown view.",
+    2: "DISABLE AT YOUR OWN RISK: you will be able to work with all extensions in Markdown representation, but with the risk of damaging files.",
+    3: "Safe-mod is {1}!",
+    4: "Disables defensive tactics for non-text extensions behaviour."
   }
 };
 
@@ -158940,6 +159101,13 @@ var LOCALES_ZH_TW = {
     2: "If both modes are enabled, it can cause unstable behaviour.",
     3: "If file is treated with both code editor module and default extensions-as-markdown system it can cause unstable behaviour with rendering system, use both modes if your file is an edge-case.",
     4: 'If code editor module uses default extensions array (with setting "use default extensions"), extension would be inserted in default extensions array, otherwise, it would be inserted in code editor extensions array.'
+  },
+  "SAFE_MODE": {
+    0: "Safe mode:",
+    1: "If enabled, the plugin will check if this extension will be damaged when opened via Markdown view.",
+    2: "DISABLE AT YOUR OWN RISK: you will be able to work with all extensions in Markdown representation, but with the risk of damaging files.",
+    3: "Safe-mod is {1}!",
+    4: "Disables defensive tactics for non-text extensions behaviour."
   }
 };
 
@@ -159033,30 +159201,42 @@ var CompatibilityModule = class {
   }
   convert(data, version2) {
     return __async(this, null, function* () {
-      var _a6, _b3, _c2, _d2, _e2, _f2, _g2, _h2, _i, _j, _k, _l, _m, _n, _o, _p, _q, _r, _s, _t, _u, _v, _w, _x, _y, _z, _A, _B;
+      var _a6, _b3, _c2, _d2, _e2, _f2, _g2, _h2, _i, _j, _k, _l, _m, _n, _o, _p, _q, _r, _s, _t, _u, _v, _w, _x, _y, _z, _A, _B, _C, _D, _E, _F, _G, _H, _I, _J;
       const settingsMap = {
         "1.*": {
           extensions: (_b3 = (_a6 = data.extensions) == null ? void 0 : _a6.replaceAll(",", ">")) != null ? _b3 : "",
           forced_extensions: (_d2 = (_c2 = data.forced_extensions) == null ? void 0 : _c2.replaceAll(",", ">")) != null ? _d2 : "",
-          is_onload: Boolean(data.is_dynamic_on)
+          is_onload: Boolean(data.is_dynamic_on),
+          mobile_settings: {
+            extensions: (_f2 = (_e2 = data.mobile_settings.extensions) == null ? void 0 : _e2.replaceAll(",", ">")) != null ? _f2 : ""
+          }
         },
         "2.0": {
-          extensions: (_f2 = (_e2 = data.extensions) == null ? void 0 : _e2.replaceAll(",", ">")) != null ? _f2 : "",
-          grouped_extensions: (_h2 = (_g2 = data.grouped_extensions) == null ? void 0 : _g2.replaceAll(",", ">")) != null ? _h2 : ""
+          extensions: (_h2 = (_g2 = data.extensions) == null ? void 0 : _g2.replaceAll(",", ">")) != null ? _h2 : "",
+          grouped_extensions: (_j = (_i = data.grouped_extensions) == null ? void 0 : _i.replaceAll(",", ">")) != null ? _j : "",
+          mobile_settings: {
+            extensions: (_l = (_k = data.mobile_settings.extensions) == null ? void 0 : _k.replaceAll(",", ">")) != null ? _l : ""
+          }
         },
         "2.1": {
-          grouped_extensions: (_j = (_i = data.grouped_extensions) == null ? void 0 : _i.replaceAll(";", ">")) != null ? _j : "",
-          extensions: (_l = (_k = data.extensions) == null ? void 0 : _k.replaceAll(";", ">")) != null ? _l : "",
-          forced_extensions: (_n = (_m = data.forced_extensions) == null ? void 0 : _m.replaceAll(";", ">")) != null ? _n : "",
-          ignore_extensions: (_p = (_o = data.ignore_extensions) == null ? void 0 : _o.replaceAll(";", ">")) != null ? _p : "",
-          ignore_masks: (_r = (_q = data.ignore_masks) == null ? void 0 : _q.replaceAll(";", ">")) != null ? _r : ""
+          grouped_extensions: (_n = (_m = data.grouped_extensions) == null ? void 0 : _m.replaceAll(";", ">")) != null ? _n : "",
+          extensions: (_p = (_o = data.extensions) == null ? void 0 : _o.replaceAll(";", ">")) != null ? _p : "",
+          forced_extensions: (_r = (_q = data.forced_extensions) == null ? void 0 : _q.replaceAll(";", ">")) != null ? _r : "",
+          ignore_extensions: (_t = (_s = data.ignore_extensions) == null ? void 0 : _s.replaceAll(";", ">")) != null ? _t : "",
+          ignore_masks: (_v = (_u = data.ignore_masks) == null ? void 0 : _u.replaceAll(";", ">")) != null ? _v : "",
+          mobile_settings: {
+            extensions: (_x = (_w = data.mobile_settings.extensions) == null ? void 0 : _w.replaceAll(";", ">")) != null ? _x : ""
+          }
         },
         "2.4": {
-          grouped_extensions: (_t = (_s = data.grouped_extensions) == null ? void 0 : _s.replaceAll(",", ">")) != null ? _t : "",
-          extensions: (_v = (_u = data.extensions) == null ? void 0 : _u.replaceAll(";", ">")) != null ? _v : "",
-          forced_extensions: (_x = (_w = data.forced_extensions) == null ? void 0 : _w.replaceAll(";", ">")) != null ? _x : "",
-          ignore_extensions: (_z = (_y = data.ignore_extensions) == null ? void 0 : _y.replaceAll(";", ">")) != null ? _z : "",
-          ignore_masks: (_B = (_A = data.ignore_masks) == null ? void 0 : _A.replaceAll(";", ">")) != null ? _B : ""
+          grouped_extensions: (_z = (_y = data.grouped_extensions) == null ? void 0 : _y.replaceAll(",", ">")) != null ? _z : "",
+          extensions: (_B = (_A = data.extensions) == null ? void 0 : _A.replaceAll(";", ">")) != null ? _B : "",
+          forced_extensions: (_D = (_C = data.forced_extensions) == null ? void 0 : _C.replaceAll(";", ">")) != null ? _D : "",
+          ignore_extensions: (_F = (_E = data.ignore_extensions) == null ? void 0 : _E.replaceAll(";", ">")) != null ? _F : "",
+          ignore_masks: (_H = (_G = data.ignore_masks) == null ? void 0 : _G.replaceAll(";", ">")) != null ? _H : "",
+          mobile_settings: {
+            extensions: (_J = (_I = data.mobile_settings.extensions) == null ? void 0 : _I.replaceAll(";", ">")) != null ? _J : ""
+          }
         }
       };
       const next = __spreadProps(__spreadValues(__spreadValues(__spreadValues({}, DEFAULT_SETTINGS), this._plugin.settings), settingsMap[version2]), {
@@ -159093,6 +159273,110 @@ __publicField(CONSTANTS, "defaultExtensions", {
   "markdown": ["md"]
 });
 /**
+* @description An array of file extensions considered "unsafe" (typically binary file formats).
+* These extensions are sourced primarily from https://www.file-extensions.org/filetype/extension/name/binary-files
+* and additional well-known binary file types. This list is used to prevent or warn users when editing these files.
+*/
+__publicField(CONSTANTS, "unsafeExtensions", [
+  // Archives
+  "zip",
+  // ZIP archive
+  "rar",
+  // RAR archive
+  "7z",
+  // 7-Zip archive
+  "tar",
+  // Tarball archive
+  "gz",
+  // Gzip compressed file
+  // Executable files
+  "exe",
+  // Windows executable
+  "bat",
+  // Batch script
+  "cmd",
+  // Windows command script
+  "sh",
+  // Unix shell script
+  "msi",
+  // Windows installer
+  // Disk images
+  "iso",
+  // ISO disk image
+  "img",
+  // Raw disk image
+  // Database files
+  "db",
+  // Database file
+  "sqlite",
+  // SQLite database
+  // Multimedia files (binary)
+  "mp4",
+  // MPEG-4 video
+  "avi",
+  // AVI video
+  "mp3",
+  // MP3 audio
+  "flac",
+  // FLAC audio
+  "wav",
+  // WAV audio
+  // Document formats (binary-encoded)
+  "pdf",
+  // PDF document
+  "doc",
+  // Microsoft Word document (older format)
+  "docx",
+  // Microsoft Word document (modern format)
+  "ppt",
+  // Microsoft PowerPoint presentation (older format)
+  "pptx",
+  // Microsoft PowerPoint presentation (modern format)
+  "xls",
+  // Microsoft Excel spreadsheet (older format)
+  "xlsx",
+  // Microsoft Excel spreadsheet (modern format)
+  // Images (binary-encoded)
+  "jpg",
+  // JPEG image
+  "png",
+  // PNG image
+  "gif",
+  // GIF image
+  "bmp",
+  // Bitmap image
+  "tiff",
+  // TIFF image
+  // Fonts
+  "ttf",
+  // TrueType font
+  "otf",
+  // OpenType font
+  // System and configuration files
+  "dll",
+  // Dynamic-link library (Windows)
+  "sys",
+  // System file (Windows)
+  "bin",
+  // Binary file
+  "dat",
+  // Data file (binary format)
+  // Virtual machine and container images
+  "vmdk",
+  // VMware virtual disk
+  "ova",
+  // Open Virtual Appliance
+  "qcow2",
+  // QEMU Copy-On-Write 2 disk image
+  // Others
+  "swf",
+  // Adobe Flash file
+  "psd",
+  // Adobe Photoshop file
+  "reg"
+  // Windows Registry
+]);
+/**
      * Initial theme to be used for rendering.
      * The current out-of-the-box available themes are: 'vs' (default), 'vs-dark', 'hc-black', 'hc-light.**/
 __publicField(CONSTANTS, "themes", {
@@ -159128,6 +159412,7 @@ var DEFAULT_SETTINGS = {
   silence_errors: false,
   manifest_version: "",
   compatibility_module: true,
+  safe_mode: true,
   code_editor_settings: {
     enabled: true,
     use_default_extensions: true,
@@ -159138,7 +159423,7 @@ var DEFAULT_SETTINGS = {
     minimapping: true,
     validation_semantic: true,
     validation_syntax: true,
-    theme: "AUTO",
+    theme: "auto",
     font_size: 14,
     font_family: "'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace",
     font_ligatures: true
@@ -159335,6 +159620,22 @@ var UNITADE_SETTINGS_TAB = class extends import_obsidian.PluginSettingTab {
     frcExtInp.inputEl.style.width = "100%";
     frcExtInp.inputEl.style.height = "48px";
     frcExtInp.inputEl.style.minHeight = "36px";
+    const safeModeToggle = new import_obsidian.Setting(containerEl).setName(this.plugin.locale.getLocaleItem("SAFE_MODE")[0]).setDesc(this.plugin.locale.getLocaleItem("SAFE_MODE")[1]).setTooltip(this.plugin.locale.getLocaleItem("SAFE_MODE")[4]).addToggle((toggle) => {
+      toggle.setValue(this.plugin.settings.safe_mode).onChange((value) => __async(this, null, function* () {
+        const next = __spreadProps(__spreadValues({}, this.plugin.settings), {
+          safe_mode: value
+        });
+        yield this.plugin.uptSettings(next);
+        this.__updateErrors();
+      }));
+      return toggle;
+    });
+    const safeModeToggleWarning = document.createElement("div");
+    safeModeToggleWarning.style.fontSize = "80%";
+    safeModeToggleWarning.style.margin = "10px";
+    safeModeToggleWarning.style.color = "darkRed";
+    safeModeToggleWarning.innerHTML = this.locale.getLocaleItem("SAFE_MODE")[2];
+    safeModeToggle.infoEl.appendChild(safeModeToggleWarning);
     const onRfAttention = document.createElement("div");
     onRfAttention.style.fontSize = "80%";
     onRfAttention.style.margin = "10px";
@@ -160434,6 +160735,30 @@ function WorkerWrapper() {
   return new Worker(new URL("monaco-editor/esm/vs/editor/editor.worker", import_meta.url));
 }
 
+// worker:monaco-editor/esm/vs/language/typescript/ts.worker
+var import_meta2 = {};
+function WorkerWrapper2() {
+  return new Worker(new URL("monaco-editor/esm/vs/language/typescript/ts.worker", import_meta2.url));
+}
+
+// worker:monaco-editor/esm/vs/language/json/json.worker
+var import_meta3 = {};
+function WorkerWrapper3() {
+  return new Worker(new URL("monaco-editor/esm/vs/language/json/json.worker", import_meta3.url));
+}
+
+// worker:monaco-editor/esm/vs/language/css/css.worker
+var import_meta4 = {};
+function WorkerWrapper4() {
+  return new Worker(new URL("monaco-editor/esm/vs/language/css/css.worker", import_meta4.url));
+}
+
+// worker:monaco-editor/esm/vs/language/html/html.worker
+var import_meta5 = {};
+function WorkerWrapper5() {
+  return new Worker(new URL("monaco-editor/esm/vs/language/html/html.worker", import_meta5.url));
+}
+
 // source/utils/utils.ts
 function isTFolder(file) {
   return file instanceof import_obsidian7.TFolder;
@@ -160713,15 +161038,15 @@ function getWorker2(language81) {
   switch (language81) {
     case "javascript":
     case "typescript":
+      return new WorkerWrapper2();
     case "css":
+      return new WorkerWrapper4();
     case "html":
+      return new WorkerWrapper5();
     case "json":
+      return new WorkerWrapper3();
     case "cpp":
-      return new WorkerWrapper();
     case "python":
-      return new Worker("./../workers/python/worker.js");
-    case "plaintext":
-      return new Worker("./../workers/plaintext/worker.js");
     case "java":
     case "php":
     case "sql":
@@ -210313,22 +210638,6 @@ var FenceEditModal = class _FenceEditModal extends import_obsidian10.Modal {
   }
 };
 
-// source/workers/utility.ts
-function registerLanguages() {
-  languages.register({ id: "python" });
-  languages.register({ id: "plaintext" });
-  languages.setLanguageConfiguration("python", {
-    comments: {
-      lineComment: "#"
-    },
-    brackets: [["(", ")"], ["[", "]"], ["{", "}"]],
-    colorizedBracketPairs: []
-  });
-  languages.setLanguageConfiguration("plaintext", {
-    brackets: [["(", ")"], ["[", "]"], ["{", "}"]]
-  });
-}
-
 // source/main.ts
 var UNITADE_PLUGIN = class _UNITADE_PLUGIN extends import_obsidian11.Plugin {
   constructor() {
@@ -210360,15 +210669,6 @@ var UNITADE_PLUGIN = class _UNITADE_PLUGIN extends import_obsidian11.Plugin {
           return getWorker2(label);
         }
       };
-      try {
-        registerLanguages();
-      } catch (error) {
-        if (this.settings.debug_mode)
-          console.debug(error);
-        else {
-          console.error(error);
-        }
-      }
       this.app.vault.on("create", (file) => __async(this, null, function* () {
         const filename = file.name.split(".").splice(1);
         if (isTFolder(file))
@@ -210731,6 +211031,11 @@ var UNITADE_PLUGIN = class _UNITADE_PLUGIN extends import_obsidian11.Plugin {
       console.info(this.app.viewRegistry.typeByExtension);
     const extensions_arr = extensions.split(">").map((s) => s.trim());
     for (const extension of extensions_arr) {
+      if (this.settings.safe_mode && view === "markdown" && CONSTANTS.unsafeExtensions.contains(extension.toLowerCase())) {
+        if (this.settings.debug_mode)
+          console.debug("[UNITADE]: Skipped unsafe extension:", extension);
+        continue;
+      }
       if (this.settings.is_ignore && this.settings.ignore_extensions.split(">").includes(extension))
         continue;
       if (this.settings.is_case_insensitive) {

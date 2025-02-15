@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e2072dfa24871113",
+        "id": "eaaf70c55f8e6d6f",
         "type": "tabs",
         "children": [
           {
-            "id": "f084d9b9e8ad4fea",
+            "id": "a439a9fab7c0885b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -60,7 +60,7 @@
             }
           },
           {
-            "id": "ef61f3138e3d1b36",
+            "id": "5efe72f9a85cb5d5",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -121,6 +121,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "templates:Insert template": false,
@@ -128,11 +129,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "dbfolder:Create a new database table": false,
-      "timelines-revamped:Insert Timeline Event": false,
-      "timelines-revamped:Insert Timeline Event (Frontmatter)": false
+      "dbfolder:Create a new database table": false
     }
   },
-  "active": "f084d9b9e8ad4fea",
+  "active": "a439a9fab7c0885b",
   "lastOpenFiles": []
 }
