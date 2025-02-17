@@ -60,7 +60,7 @@
             }
           },
           {
-            "id": "5efe72f9a85cb5d5",
+            "id": "90622a3d4d85ee43",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -69,8 +69,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,7 +120,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-kanban:Create new board": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "templates:Insert template": false,
@@ -129,9 +127,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "dbfolder:Create a new database table": false
+      "dbfolder:Create a new database table": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a439a9fab7c0885b",
-  "lastOpenFiles": []
+  "active": "202ae50e89771cc9",
+  "lastOpenFiles": [
+    "srcProtokolen PATTERNU ihr IDEOLOGIKA/srcProtokolen PATTERNU ihr IDEOLOGIKA.md",
+    "srcProtokolen PATTERNU ihr IDEOLOGIKA",
+    "icons/tabler-icons/eps/outline/photo-minus.eps",
+    "icons/tabler-icons/eps/outline/photo-hexagon.eps",
+    "icons/tabler-icons/eps/outline/photo-heart.eps",
+    "icons/tabler-icons/eps/outline/photo-exclamation.eps",
+    "icons/tabler-icons/eps/outline/photo-edit.eps",
+    "icons/tabler-icons/eps/outline/photo-down.eps",
+    "icons/tabler-icons/eps/outline/photo-dollar.eps",
+    "icons/tabler-icons/eps/outline/photo-cog.eps",
+    "icons/tabler-icons/eps/outline/photo-code.eps",
+    "icons/lucide-icons/icons/cloudy.svg",
+    "icons/lucide-icons/icons/panel-bottom-dashed.svg",
+    "icons/lucide-icons/icons/square-code.svg",
+    "icons/lucide-icons/icons/file-badge.svg",
+    "icons/lucide-icons/icons/shuffle.svg",
+    "icons/lucide-icons/icons/image-minus.svg",
+    "icons/lucide-icons/icons/bot-message-square.svg",
+    "icons/lucide-icons/icons/square-pi.svg",
+    "icons/lucide-icons/icons/image-up.svg",
+    "icons/lucide-icons/icons/bluetooth-connected.svg",
+    "icons/octicons/octicons-19.8.0/tests/snapshots/build.js.md",
+    "icons/octicons/octicons-19.8.0/lib/octicons_node/README.md",
+    "icons/octicons/octicons-19.8.0/lib/octicons_styled/README.md",
+    "icons/octicons/octicons-19.8.0/lib/octicons_react/README.md",
+    "icons/octicons/octicons-19.8.0/lib/octicons_jekyll/README.md",
+    "icons/octicons/octicons-19.8.0/lib/octicons_helper/README.md",
+    "icons/octicons/octicons-19.8.0/lib/octicons_gem/README.md",
+    "icons/octicons/octicons-19.8.0/add-octicon-checklist.md",
+    "icons/octicons/octicons-19.8.0/README.md",
+    "icons/octicons/octicons-19.8.0/CONTRIBUTING.md",
+    "icons/octicons/octicons-19.8.0/CODE_OF_CONDUCT.md",
+    "icons/octicons/octicons-19.8.0/CHANGELOG.md"
+  ]
 }
