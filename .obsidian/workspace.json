@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eaaf70c55f8e6d6f",
+        "id": "a55fb1ab2242cff6",
         "type": "tabs",
         "children": [
           {
-            "id": "a439a9fab7c0885b",
+            "id": "b47b02abfee4088f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -60,7 +60,7 @@
             }
           },
           {
-            "id": "90622a3d4d85ee43",
+            "id": "f3495f4f75082ccc",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -69,7 +69,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -131,7 +132,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "202ae50e89771cc9",
+  "active": "b47b02abfee4088f",
   "lastOpenFiles": [
     "srcProtokolen PATTERNU ihr IDEOLOGIKA/srcProtokolen PATTERNU ihr IDEOLOGIKA.md",
     "srcProtokolen PATTERNU ihr IDEOLOGIKA",
